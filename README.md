@@ -1,1 +1,2 @@
+Saludo estimado profesor. Para comentrle que he tenido varios inconvenientes en el aprendizaje y aplicacion del modelo angular y tambien en el trabjo en Git, pese a varios intentos, no logro que suban los archivos y subcarpetas a la carpeta frontend de Github, en la carpeta de mi pc si estan: 4 carpetas y 10 archivos, pero al crear repositorio desde la consola de comandos, especificamente esos documentos no se cargan.
 
